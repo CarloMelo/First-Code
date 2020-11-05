@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body{
+    background-color: #ff7b00;
+}
+
+.myname{
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+    colour: #000;
+}
+.name{
+text-align: center;
+}
